@@ -25,6 +25,7 @@ public class QueroCafe {
                 System.out.println(resposta + quantidade_limite - (resposta%quantidade_limite));
             }
         }
+        sc.close();
     }
 
     public static float calculaQuantidade(float numero_alunos, float mililitros) {
