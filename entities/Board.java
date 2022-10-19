@@ -1,9 +1,13 @@
 package entities;
 
 public class Board {
+    //  1    2    3
+    // a1 | a2 | a3  a
+    // ------------
+    // b1 | b2 | b3  b
+    // ------------
+    // c1 | c2 | c3  c
+
     
-    // p1 | p2 | p3
-    // p4 | p5 | p6
-    // p7 | p8 | p9
 
 }
