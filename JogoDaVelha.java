@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class JogoDaVelha {
-
+    // feito baseando-se no video do canal Code With JohnD
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
