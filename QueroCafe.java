@@ -1,6 +1,12 @@
 import java.util.Scanner;
+
+
 public class QueroCafe {
+
+
     public static void main(String[] args) {
+
+        
         Scanner sc = new Scanner(System.in);
         float resposta;
         float numero_alunos;
